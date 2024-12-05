@@ -1,0 +1,27 @@
+{
+  "name": "anime-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdDev-code/Anime-API.git"
+  },
+  "author": "Abd-devcode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdDev-code/Anime-API/issues"
+  },
+  "homepage": "https://github.com/AbdDev-code/Anime-API#readme",
+  "description": "",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "socket.io": "^4.8.1"
+  }
+}
